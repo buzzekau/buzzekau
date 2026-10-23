@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👨‍🎓 I’m currently enrolled in the Blockchain Developer program at Medieinstitutet, in Sweden.  It is a two-year Higher Vocational Education program focused on developing and programming decentralized systems, smart contracts, and Web3 applications. Expected Graduation: April 2028 (=> https://medieinstitutet.se/utbildningar/blockchainutvecklare/)
+- 👨‍🎓 I’m currently enrolled in the [Blockchain Developer program at Medieinstitutet](https://medieinstitutet.se/utbildningar/blockchainutvecklare/), in Sweden.  It is a two-year Higher Vocational Education program focused on developing and programming decentralized systems, smart contracts, and Web3 applications. **Expected Graduation: April 2028**
 - 💻 I'm currently learning full-stack web development with deep technical specialization in JavaScript, React, Node.js, smart contracts (e.g., Ethereum), and backend integration, as well as the business, legal, and ethical frameworks of blockchain technology.
 - 🏢 The last 10 years I worked as organizational development advisor/consultant, while also co-founding self-organized initiatives (Emprogage, One-X Purposeful Ecosystem). I am excited to combine my expertise in social and technological change.
 - 👯 I’m looking to collaborate on meaningful ideas during my required internships (starting in October 2027), which are paid for by the Swedish Government to gain real-world experience in agile software development.  
